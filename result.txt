@@ -1,0 +1,4 @@
+Student Name,Class Name,Subject Stream,Total Marks,School Rank,Class Rank
+Pasindu,m4,maths,70,1,1
+charith,m4,maths,60,1,1
+Kasun,b1,bio,60,2,0
